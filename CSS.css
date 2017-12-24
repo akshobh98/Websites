@@ -1,0 +1,468 @@
+.image{
+			margin: 0;	
+			width: 100%;
+
+		}
+
+		.mac{
+			padding-bottom: 100px;
+			background-color: #000022;
+			padding-top: 1px;
+			margin: 0;
+			border: 10px;
+			font-weight: lighter;
+
+			
+
+		}
+
+		.title{
+			color:white;
+			font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
+			font-size: 80px;
+			font-weight: lighter;
+			padding-bottom: 0;
+    		text-shadow: 2px 2px 4px #000000;
+			
+			
+		}
+
+		.divine{
+			padding-left: 300px;
+			padding-top: 70px;
+			width: 60%;
+
+			padding-bottom: 100px;
+			border-image-width: 100%;
+		}
+
+		body{
+			
+			background-color: white;
+		}
+
+		.button{
+			padding: 20px 30px;
+			border: 1px solid #000022;
+			font-size: 20px;
+			margin-left: 10px;
+			background-color: #000022;
+			margin-left: 600px;
+			color:white;
+			
+		}
+
+		.button:hover{
+			background-color:  white;
+			color:#000022;
+			/*color: white;*/
+		}
+
+		.end{
+			padding-right: 4px;
+			
+
+		}
+
+		.dates{
+			font-weight: lighter;
+			font-family: Brush Script MT, Brush Script Std, cursive;
+			font-size: 150px;
+			color:#d8c0bb;
+			text-shadow: 2px 2px 4px #000000;
+
+		}
+
+		
+
+		.tour{
+			text-align: center;
+			padding-bottom: 0;
+			background-color: #d8c0bb;
+		}
+
+		.tour1{
+			
+			border-bottom: 1px solid black;
+			border-top: 1px solid black;
+			padding-top: 10px;
+
+
+			
+		}
+
+		.tour1:hover{
+			background-image: url(Old_Flag_of_Argentina.png);
+			box-shadow: 2px 2px 4px #000000;
+			
+		}
+
+
+		.tic{
+			background-color: #ffffff;
+			border: 1px solid white;
+			border-radius: 20px;
+			width: 300px;
+			margin: 30px;
+			padding: 10px 10px;
+			font-size: 25px;
+			font-family:
+			font-weight:lighter;
+
+		}
+
+		.tic:hover{
+			background-color:  #d8c0bb; 
+			
+		}
+
+		.ticket1{
+			font-size: 50px;
+			text-align: center;
+			word-spacing: 10px;
+			font-family: papyrus, fantasy;
+			color:white;
+			text-shadow: 2px 2px 2px #000000;
+			font-size: 30px;
+		}
+
+		
+
+		.ticket4{
+			font-size: 40px;
+			padding-left: 100px;
+			font-family:  papyrus, fantasy;
+			color:white;
+			text-shadow: 2px 2px 2px #000000; 
+			padding-right: 100px;
+		}
+
+
+
+		.tour2{
+
+			border-bottom: 1px solid black;
+			padding-bottom: 1px;
+			padding-top: 10px;
+		}
+
+		.tour2:hover{
+			background-image: url(Flag_of_Chile_1817-1818.png);
+			box-shadow: 2px 2px 2px #000000;
+		}
+
+		.ticket2{
+			font-size: 50px;
+			text-align: center;
+			word-spacing: 10px;
+			font-family: papyrus, fantasy;
+			color:white;
+			text-shadow: 2px 2px 2px #000000;
+			font-size: 30px;
+		}
+
+		.ticket5{
+			font-size: 40px;
+			text-align: center;
+			font-family:  papyrus, fantasy;
+			color:white;
+			text-shadow: 2px 2px 2px #000000; 
+		}
+
+		.tix{
+			background-color: #ffffff;
+			border: 1px solid white;
+			border-radius: 20px;
+			width: 300px;
+			margin: 30px;
+			padding: 10px 10px;
+			font-size: 25px;
+			font-family:
+			font-weight:lighter;
+
+		}
+
+		.tix:hover{
+			background-color:  #d8c0bb; 
+			
+		}
+
+		.tour3{
+			
+			border-bottom: 1px solid black;
+			padding-top: 10px;
+			
+		}
+
+		.tour3:hover{
+			background-image: url(UnionJack.png);
+			background-size: cover;
+			box-shadow: 2px 2px 2px #000000;
+
+		}
+
+		.ticket3{
+			font-size: 50px;
+			text-align: center;
+			word-spacing: 10px;
+			font-family: papyrus, fantasy;
+			color:white;
+			text-shadow: 2px 2px 2px #000000;
+			font-size: 30px;
+		}
+
+
+
+		.ticket6{
+			font-size: 40px;
+			text-align: center;
+			font-family:  papyrus, fantasy;
+			color:white;
+			text-shadow: 2px 2px 2px #000000; 
+		}
+
+		.ticx{
+			background-color: #ffffff;
+			border: 1px solid white;
+			border-radius: 20px;
+			width: 300px;
+			margin: 30px;
+			padding: 10px 10px;
+			font-size: 25px;
+			font-family:
+			font-weight:lighter;
+		}
+
+		.ticx:hover{
+			background-color:  #d8c0bb; 
+		
+
+		}
+
+
+		.social{
+			padding-left: 450px;
+			padding-bottom: 50px;
+			border-bottom: 5px solid black;
+			padding-top: 1px;
+			
+
+		}
+
+		.media{
+			font-size: 40px;
+			font-family: Tahoma, Geneva, sans-serif;
+			color:#d8c0bb;
+			text-shadow: 2px 2px 2px #000000;
+			margin:10px;
+			padding-left: 200px;
+
+
+			
+		}
+
+		.email{
+			width:35%;
+			padding: 15px 10px;
+			color:grey;
+			border: 1px solid #000022;
+
+		}
+
+		.submit{
+			width:20%;
+			padding: 13px 10px;
+			font-size: 110%;
+			font-family: Tahoma, Geneva, sans-serif;
+			background-color: white; 
+			border: 1px solid #000022;
+			margin: 20px;
+		}
+
+		.terms{
+			font-family:  Tahoma, Geneva, sans-serif;
+			font-weight: bold;
+			font-size: 100%;
+			margin: 1px;
+
+		}
+
+		.terms:hover{
+			text-decoration: underline;
+
+		}
+
+		.meezy{
+			padding-left: 10%;
+			padding-top: 100px;
+
+		}
+
+		.tshirt{
+			right:  10px;
+			top: 30px;
+			
+			
+		}
+
+		.merchandise{
+			padding-top: 100px;
+			padding-left: 620px;
+
+		}
+
+		.shop{
+			padding: 30px 30px;
+			border: 1px solid white;
+			font-size: 20px;
+			margin-left: 10px;
+			background-color: #ffffff;
+			
+		}
+
+		.shop:hover{
+			background-color: #000022;
+			color:white; 
+		}
+
+		.hoodie{
+			background-color: #000022;
+		}
+
+		.hat{
+			padding-left: 30%;
+			padding-top: 10px;
+
+			
+		}
+
+		.music1{
+			list-style: none;
+			margin: 10px;
+			padding-left: 10px;
+			font-family: sans-serif;
+			line-height: 100px;
+			font-size: 20px;
+
+		}
+
+		.menu{
+			position: absolute;
+			width:20%;
+			height: 100%;
+			background-color: white;
+			left:-1000px;
+			transition: all 2s linear;
+
+		}
+
+		.music1{
+			background-color: #ffffff;
+		}
+
+		.music1 .one:hover{
+			box-shadow: 2px 2px 2px #000000;
+		}
+
+		.music1 .two:hover{
+			box-shadow: 2px 2px 2px #000000;
+		}
+
+		.music1 .three:hover{
+			box-shadow: 2px 2px 2px #000000;
+		}
+
+		.music1 .four:hover{
+			box-shadow: 2px 2px 2px #000000;
+		}
+
+		.music1 .five:hover{
+			box-shadow: 2px 2px 2px #000000;
+		}
+
+		.one{
+			padding-left: 600px;
+			font-size: 60px;
+		}
+
+		.two{
+			padding-left: 600px;
+			font-size: 60px;
+		
+		}
+
+		.three{
+			padding-left: 600px;
+			font-size: 60px;
+		}
+
+		.four{
+			padding-left: 600px;
+			font-size: 60px;
+		}
+
+		.five{
+			padding-left: 600px;
+			font-size: 60px;
+		}
+
+
+		
+		
+
+		.toggle span{
+			display: block;
+			width: 60px;
+			height: 10px;
+			background-color: white;
+			margin: 7px 5px; 
+
+
+		}
+
+		.toggle{
+			right: 20px;
+			padding-top: 10px;
+			position: fixed;
+		}
+
+		.TheEnd{
+			text-align: center;
+			font-size: 150%;
+			font-family: papyrus, fantasy;
+			background-color: #000022;
+			padding-top: 20%;
+			top:10px;
+			color:white;
+			word-spacing: 10px;
+			padding-bottom: 10px;
+
+		}
+
+		.privacy:hover{
+			text-decoration: underline;
+		}
+
+		.service:hover{
+			text-decoration: underline;
+		}
+
+		.choices:hover{
+			text-decoration: underline;
+		}
+
+		.matter:hover{
+			text-decoration: underline;
+		}
+
+		.warner{
+			padding-left: 43%;
+			background-color: #000022;
+			padding-right: 654px;
+			padding-bottom: 10%;
+		}
+
+		
+
+
+		
